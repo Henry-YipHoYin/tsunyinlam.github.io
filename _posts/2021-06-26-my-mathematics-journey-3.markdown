@@ -19,7 +19,6 @@ The course was immensely fun.
 
 I also joined a linear algebra course 
 
-
 ## Introduction to Cryptography
 
 ## Understanding Non-Euclidean Geometry
