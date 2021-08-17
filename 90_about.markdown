@@ -8,7 +8,7 @@ permalink: /about
 
 Hi there I'm Toby Lam! 👋 A student from Hong Kong. 
 
-Here's my [CV]({{site.url}}/assets/documents/CV.pdf) as at June 2021. 
+Here's my [CV]({{site.url}}/assets/documents/CV.pdf) as at August 2021. 
 
 You can contact me by sending an [email](mailto:greenone092@gmail.com)
 
