@@ -17,7 +17,7 @@ Beside the official information that you could easily find, there's a couple res
 
 Other than that, you could also read the [UG mathematics handbooks](https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/handbooks-synopses) to have a detailed overview of the course itself.
 
-For the choice of colleges, you could look at admit rates, teaching faculties, Norrington tables etc. You could refer to a [short article](https://etherlin.top/2021-04-10/How-do-you-choose-your-Oxford-College) my friend has written on the topic.
+For the choice of colleges, you could look at admit rates, teaching faculties, Norrington tables etc. You could refer to a [short article](https://etherlin.top/2021-04-10/How-do-you-choose-your-Oxford-College) my friend has written on the topic. As tutors would be responsible for teaching you in tutorials, it would be beneficial to find colleges with tutors that somewhat align with your interested fields. However, if you wish to go to a college purely because of a single faculty member there, then you might run the risk that that faculty member moves.
 
 ## Mathematics Admission Test
 
@@ -51,7 +51,7 @@ Try to recite some of the common identities (calculus, trigonometry ...)  before
 
 #### Be thorough
 
-Since you would be stressed out during the interview, it's very easy to commit careless mistakes (copying wrongly, arithmetic errors ...). Taking your time is better than reaching the wrong conclusion and having to backtrack. Be throughough and write down or speak out everything.
+Since you would be stressed out during the interview, it's very easy to commit careless mistakes (copying wrongly, arithmetic errors ...). Taking your time is better than reaching the wrong conclusion and having to backtrack. Be through and write down or speak out everything.
 
 #### Communicating with the tutors
 
