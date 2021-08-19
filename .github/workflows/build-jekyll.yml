@@ -13,8 +13,10 @@ jobs:
         run: sudo apt-get install libmagickwand-dev
       - name: Prepare again.
         run: sudo apt-get install libmagick++-dev
-      - name: Prepare again...
+      - name: Prepare again
         run: export PKG_CONFIG_PATH=/usr/local/Cellar/imagemagick/6.9.3-7/lib/pkgconfig
+      - name: Install imagemagick?
+        run:  sudo apt-get install libmagickwand-dev imagemagick
       - uses: actions/checkout@v2
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
