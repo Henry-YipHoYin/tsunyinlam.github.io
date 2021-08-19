@@ -33,6 +33,6 @@ In terms of animation, I throughoughly enjoyed Adventure Time (and the specials,
 In terms of youtube channels. I watch Roffle's daily wild hearthstone gameplay. 3b1b's videos (especially his linear algebra series) were also momenumental for my learning in mathematics.
 
 Speaking of books, my favourite book of all time would probably be Hemingway's A Moveable Feast. 
-
+ 
 I also play badminton.
 
