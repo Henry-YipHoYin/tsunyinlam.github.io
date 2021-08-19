@@ -16,6 +16,6 @@ end
 gem 'duktape'
 gem 'katex'
 gem 'execjs'
-gem 'kramdown-math-katex' 
+gem 'kramdown-math-katex'  
 
 gem "webrick"
