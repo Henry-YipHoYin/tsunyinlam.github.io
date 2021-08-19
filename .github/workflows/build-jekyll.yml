@@ -7,8 +7,10 @@ on:
 
 jobs:
   build_and_deploy:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
+      - name: Prepare installing rmagick?
+        run: sudo apt-get install libmagickwand-dev
       - uses: actions/checkout@v2
 
       # Use GitHub Actions' cache to cache dependencies on servers
