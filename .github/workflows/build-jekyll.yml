@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Prepare installing rmagick?
-        run: sudo apt-get purge imagemagick libmagickcore-dev libmagickwand-dev
+        run: |
+        sudo apt-get purge imagemagick libmagickcore-dev libmagickwand-dev
         sudo rm -R /usr/include/ImageMagick-6/magick
         sudo ln -s /usr/lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/Magick-config /usr/bin/Magick-config
         sudo apt-get install imagemagick libmagickcore-dev libmagickwand-dev
       - uses: actions/checkout@v2
-
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
         with:
