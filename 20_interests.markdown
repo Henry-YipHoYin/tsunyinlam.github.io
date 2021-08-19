@@ -3,7 +3,7 @@ layout: page
 title: Interests
 permalink: /interests
 published: false
-katex: true
+katex: true 
 ---
 
 ## Mathematics
