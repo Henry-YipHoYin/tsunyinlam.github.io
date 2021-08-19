@@ -9,13 +9,13 @@ author:
 
 baseurl: "" 
 url: "https://www.tobylam.xyz" 
-github_username:  greenone092
+github_username:  tsunyinlam
 
 remote_theme: jekyll/minima@3cdd14dff1216f561c68329e0b7420c2dc9b796a
 
 minima:
   social_links:
-    github: greenone092
+    github: tsunyinlam
     linkedin: toby-lam-3ba386193
     youtube_channel: UCkC3ZMvxMng4xlTXaTb6jgQ
     youtube_channel_name: Toby Lam
