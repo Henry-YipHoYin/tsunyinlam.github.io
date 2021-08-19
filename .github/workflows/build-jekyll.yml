@@ -14,6 +14,7 @@ jobs:
         sudo apt-get install libmagickwand-dev
         sudo apt-get install libmagick++-dev
         export PKG_CONFIG_PATH=/usr/local/Cellar/imagemagick/6.9.3-7/lib/pkgconfig
+        
       - uses: actions/checkout@v2
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
