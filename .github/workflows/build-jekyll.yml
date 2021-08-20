@@ -12,9 +12,9 @@ jobs:
       - name: Sigh 
       - run: | 
         sudo apt-get purge graphicsmagick graphicsmagick-dbg imagemagick-common imagemagick imagemagick-6.q16 libmagickcore-6-headers libmagickwand-dev graphicsmagick-libmagick-dev-compat
-        sudo apt-get autoremove
-        sudo apt-get install imagemagick libmagickwand-dev
-        sudo ln -s /usr/lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/Magick-config /usr/bin/Magick-config
+        apt-get autoremove
+        apt-get install imagemagick libmagickwand-dev
+        ln -s /usr/lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/Magick-config /usr/bin/Magick-config
         export PKG_CONFIG_PATH=/usr/lib/x86_64-linux-gnu/pkgconfig
         gem install rmagick
       - uses: actions/checkout@v2 
