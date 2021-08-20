@@ -15,8 +15,6 @@ jobs:
         run: sudo apt-get install libmagick++-dev
       - name: Prepare again
         run: export PKG_CONFIG_PATH=/usr/local/Cellar/imagemagick/6.9.3-7/lib/pkgconfig
-      - name: Install imagemagick at version 6?
-        run:  sudo apt-get install imagemagick=6.9.12
       - uses: actions/checkout@v2
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v2
