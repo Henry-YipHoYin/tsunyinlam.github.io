@@ -12,7 +12,7 @@ jobs:
       - name: Remove imagemagick 
         run: sudo apt remove --purge imagemagick
       - name: reinstall imagemagick 
-        run: sudo apt-get imagemagick-6.q16  
+        run: sudo apt-get imagemagick@6 
       - name: Prepare installing Rmagick
         run: sudo apt-get install libmagickwand-dev
       - name: Prepare again.
