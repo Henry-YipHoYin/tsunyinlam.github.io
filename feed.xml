@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.tobylam.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.tobylam.xyz/" rel="alternate" type="text/html" /><updated>2021-12-08T20:59:28+00:00</updated><id>https://www.tobylam.xyz/feed.xml</id><title type="html">Toby Lam’s Blog</title><subtitle>A blog on mathematics and tech</subtitle><author><name>Toby Lam</name><email>greenone092@gmail.com</email></author><entry><title type="html">First Term at Oxford</title><link href="https://www.tobylam.xyz/2021/12/04/first-term-at-oxford.html" rel="alternate" type="text/html" title="First Term at Oxford" /><published>2021-12-04T00:00:00+00:00</published><updated>2021-12-04T00:00:00+00:00</updated><id>https://www.tobylam.xyz/2021/12/04/first-term-at-oxford</id><content type="html" xml:base="https://www.tobylam.xyz/2021/12/04/first-term-at-oxford.html">&lt;p&gt;Having been through the hectic Michaelmas term at Oxford, here are some general thoughts about it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://www.tobylam.xyz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.tobylam.xyz/" rel="alternate" type="text/html" /><updated>2021-12-18T12:21:06+00:00</updated><id>https://www.tobylam.xyz/feed.xml</id><title type="html">Toby Lam’s Blog</title><subtitle>A blog on mathematics and tech</subtitle><author><name>Toby Lam</name><email>greenone092@gmail.com</email></author><entry><title type="html">First Term at Oxford</title><link href="https://www.tobylam.xyz/2021/12/04/first-term-at-oxford.html" rel="alternate" type="text/html" title="First Term at Oxford" /><published>2021-12-04T00:00:00+00:00</published><updated>2021-12-04T00:00:00+00:00</updated><id>https://www.tobylam.xyz/2021/12/04/first-term-at-oxford</id><content type="html" xml:base="https://www.tobylam.xyz/2021/12/04/first-term-at-oxford.html">&lt;p&gt;Having been through the hectic Michaelmas term at Oxford, here are some general thoughts about it.&lt;/p&gt;
 
 &lt;h2 id=&quot;work-work-work&quot;&gt;Work, work, work&lt;/h2&gt;
 
@@ -12,11 +12,11 @@
 
 &lt;p&gt;You should also be consistent in aspects other than work. Even though taking a day &lt;em&gt;completely&lt;/em&gt; off is rather impossible, you could still make someday of the week (say the day after the weekly deadlines) to be &lt;em&gt;relatively&lt;/em&gt; relaxing. Or you could organise a weekly hangout with friends. It really helps a lot to have some sort of weekly routine going on.&lt;/p&gt;
 
-&lt;p&gt;Using something like screen time to record the time you spend working is also great at helping you maintain consistency. It reminds you to take breaks if you have been overworking and to work more if you’re falling behind schedule. It eliminates self-doubt about whether I’m working hard enough.&lt;/p&gt;
+&lt;p&gt;Using something like screen time to record the time you spend working is also great at helping you maintain consistency. It reminds you to take breaks if you have been overworking and to work more if you’re falling behind schedule. It eliminates self-doubt about whether you’re working hard enough.&lt;/p&gt;
 
 &lt;h2 id=&quot;efficiency&quot;&gt;Efficiency&lt;/h2&gt;
 
-&lt;p&gt;Not only do you need to get work done, but you also need to get it done fast. Mostly this means minimizing the time you get “stuck” on something. It helps a lot to consider a flowchart whenever I get stuck. Have I missed something in the lecture notes? Have I tried watching the lectures first? Have I tried asking other people about it? Could I ask about it in an upcoming tutorial? The less time you spend being unproductive, the more time you have to work (and rest).&lt;/p&gt;
+&lt;p&gt;Not only do you need to get work done, but you also need to get it done fast. Mostly this means minimizing the time you get “stuck” on something. It helps a lot to consider a flowchart whenever you get stuck. Have you missed something in the lecture notes? Have you tried watching the lectures first? Have you tried asking other people about it? Could you ask about it in an upcoming tutorial? The less time you spend being unproductive, the more time you have to work (and rest).&lt;/p&gt;
 
 &lt;h2 id=&quot;attitude&quot;&gt;Attitude&lt;/h2&gt;
 
@@ -46,17 +46,17 @@
 
 &lt;h2 id=&quot;mathematics-admission-test&quot;&gt;Mathematics Admission Test&lt;/h2&gt;
 
-&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+&lt;h3 id=&quot;do-past-papers&quot;&gt;Do past papers&lt;/h3&gt;
 
 &lt;p&gt;Doing all the &lt;a href=&quot;https://www.google.com/search?client=firefox-b-d&amp;amp;q=Mathematics+Applitude+Test&quot;&gt;past papers&lt;/a&gt; is perhaps the best way to prepare. You should do some of them under timed conditions. However, doing some questions is always better than doing none at all, so don’t force yourself to do every paper under timed conditions if you don’t have the time for it. You should also check out the official &lt;a href=&quot;https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test/mat-livestream&quot;&gt;MAT livestream&lt;/a&gt;. If you really want to do more exercise, do the &lt;a href=&quot;https://maths.org/step/assignments&quot;&gt;STEP foundation modules&lt;/a&gt;. They are really fun and teaches skills and ideas mostly relevant to MAT.&lt;/p&gt;
 
-&lt;h4 id=&quot;use-the-previous-subparts&quot;&gt;Use the previous subparts&lt;/h4&gt;
+&lt;h3 id=&quot;use-the-previous-subparts&quot;&gt;Use the previous subparts&lt;/h3&gt;
 
 &lt;p&gt;All the subparts of the question should be logically connected. If you get stuck, try to use the results you got from the previous subparts.&lt;/p&gt;
 
 &lt;p&gt;Even if you are sure something would work yet it doesn’t use the previous subparts, you should still try to think of an alternative solution that uses them. It would usually be more elegant and less time-consuming.&lt;/p&gt;
 
-&lt;h4 id=&quot;be-thorough&quot;&gt;Be thorough&lt;/h4&gt;
+&lt;h3 id=&quot;be-thorough&quot;&gt;Be thorough&lt;/h3&gt;
 
 &lt;p&gt;Every keyword / condition that appears in the question should be mentioned / copied at least once on your answer. You should also  clearly state the results you’ve proved in the previous parts, and why they are applicable to your situation.&lt;/p&gt;
 
@@ -64,21 +64,21 @@
 
 &lt;p&gt;Some questions (Usually Q5) have a lot of cases to consider. You need to be very careful about them as there are often exceptional cases.&lt;/p&gt;
 
-&lt;h4 id=&quot;intuition&quot;&gt;Intuition&lt;/h4&gt;
+&lt;h3 id=&quot;intuition&quot;&gt;Intuition&lt;/h3&gt;
 
 &lt;p&gt;While there are exceptions, most questions could usually be answered without much steps. If you find yourself painfully expanding terms, you are probably not noticing something you should’ve. This is especially important in graph questions. Usually you need to spot some rigid transformation.&lt;/p&gt;
 
 &lt;h2 id=&quot;interviews&quot;&gt;Interviews&lt;/h2&gt;
 
-&lt;h4 id=&quot;preparation-1&quot;&gt;Preparation&lt;/h4&gt;
+&lt;h3 id=&quot;recite-common-identities-beforehand&quot;&gt;Recite common identities beforehand&lt;/h3&gt;
 
 &lt;p&gt;Try to recite some of the common identities (calculus, trigonometry …)  before the interview. It would be unfortunate if you had to waste valuable time deducing them on the spot.&lt;/p&gt;
 
-&lt;h4 id=&quot;be-thorough-1&quot;&gt;Be thorough&lt;/h4&gt;
+&lt;h3 id=&quot;take-your-time&quot;&gt;Take your time&lt;/h3&gt;
 
 &lt;p&gt;Since you would be stressed out during the interview, it’s very easy to commit careless mistakes (copying wrongly, arithmetic errors …). Taking your time is better than reaching the wrong conclusion and having to backtrack. Be through and write down or speak out everything.&lt;/p&gt;
 
-&lt;h4 id=&quot;communicating-with-the-tutors&quot;&gt;Communicating with the tutors&lt;/h4&gt;
+&lt;h3 id=&quot;communicating-with-the-tutors&quot;&gt;Communicating with the tutors&lt;/h3&gt;
 
 &lt;p&gt;Talk out loud. This is a very common advice and has to be stressed.&lt;/p&gt;
 
@@ -90,17 +90,17 @@
 
 &lt;p&gt;If you caught a mistake you have just committed, be calm! Say to the tutors that you have made a mistake, explain why it’s wrong, and slowly correct it. Ultimately, doing so shows that you are capable of identifying mistakes and correcting them logically. Never haphazardly correct it only to find out that it’s wrong again, it would give an impression that you are not logical and through enough.&lt;/p&gt;
 
-&lt;h4 id=&quot;ask-questions-if-necessary&quot;&gt;Ask questions if necessary&lt;/h4&gt;
+&lt;h3 id=&quot;ask-questions-if-necessary&quot;&gt;Ask questions if necessary&lt;/h3&gt;
 
 &lt;p&gt;Usually the tutors will ensure that you know the background and the context of the question. However if they throw out a word or a phrase that they expect you to understand yet you don’t, it’s perfectly fine to ask them about it.&lt;/p&gt;
 
 &lt;p&gt;However, if you have heard of a similar term, you should perhaps verbally guess what the term may mean in addition to asking about it, or state clearly what you are confused about. You would be able to show your thought process (which is ultimately what your tutors want to evaluate in the interview) and the tutors would be able to give you a better answer.&lt;/p&gt;
 
-&lt;h4 id=&quot;predict-what-they-would-ask-you&quot;&gt;Predict what they would ask you&lt;/h4&gt;
+&lt;h3 id=&quot;predict-what-they-would-ask-you&quot;&gt;Predict what they would ask you&lt;/h3&gt;
 
 &lt;p&gt;Their first question they ask you might be very easy. While you are answering it, think about the complications they could throw at you. If they were asking about the &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;n = 1&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.43056em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.64444em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; case, what about &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo separator=&quot;true&quot;&gt;,&lt;/mo&gt;&lt;mn&gt;3...&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;n = 2, 3 ...&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.43056em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.8388800000000001em;vertical-align:-0.19444em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;mpunct&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.16666666666666666em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;3...&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;? Could you figure out a general solution? Don’t rely on brute force methods for simple questions. Usually they won’t work for larger cases or the tutors would just ask you to generalize the solution.&lt;/p&gt;
 
-&lt;h4 id=&quot;what-if-the-tutors-say-youre-wrong&quot;&gt;What if the tutors say you’re wrong?&lt;/h4&gt;
+&lt;h3 id=&quot;what-if-the-tutors-say-youre-wrong&quot;&gt;What if the tutors say you’re wrong?&lt;/h3&gt;
 
 &lt;p&gt;Firstly, don’t get defensive. Keep your cool.&lt;/p&gt;
 
